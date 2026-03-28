@@ -19,7 +19,7 @@ This workspace is structured to develop CLARK as a research-driven venture proje
 - `docs/pitch.md`: investor-facing narrative
 - `docs/decision-log.md`: decisions that have been made
 - `docs/claims-register.md`: which claims are safe, weak, or rejected
-- `docs/AGENTS.md`: contributor guide for repository contributors
+- `AGENTS.md`: contributor guide for repository contributors
 - `docs/competitor-map.md`: consolidated competitor, analog, benchmark, and substitute map
 - `docs/clarkware.md`: software-family concept, IPE definition, and version 1 boundary
 - `docs/clarkware-architecture.md`: version 1 technical architecture, data model, messaging, and deployment approach
@@ -37,6 +37,7 @@ This workspace is structured to develop CLARK as a research-driven venture proje
 - `docs/clarkware-faq.md`: investor and technical objection-handling FAQ
 - `docs/clarkware-deck-short.md`: compressed investor-ready Clarkware deck version
 - `docs/niagara-pilot-staffing-and-station-sheet.md`: concrete staffing, station, instrument, and access sheet for the first Niagara pilot
+- `docs/program-status-memo.md`: current program-level status, completed work, active work, and next decisions
 
 ## Recommended Working Order
 

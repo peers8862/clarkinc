@@ -1,4 +1,4 @@
-/# Clark Venture Overview
+# Clark Venture Overview
 
 ## Working Thesis
 

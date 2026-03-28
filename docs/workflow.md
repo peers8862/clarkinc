@@ -11,6 +11,7 @@ Use this workspace to turn a rough company idea into a coherent business plan an
 3. Promote validated assumptions into `docs/business-plan.md`.
 4. Translate the business plan into persuasive narrative in `docs/pitch.md`.
 5. Revisit the overview when the target market, problem, or pricing changes.
+6. Publish a concise program checkpoint in `docs/program-status-memo.md` after major planning updates.
 
 ## Working Rules
 
