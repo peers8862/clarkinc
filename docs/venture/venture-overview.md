@@ -48,7 +48,7 @@ Within CLARK itself, major operating capabilities are expected to be organized a
 
 ### Customer
 
-- Primary customers: Industrial, defense-adjacent, and advanced hardware programs needing low-volume, high-mix, fast-turn electronics assembly.
+- Primary customers: Industrial-controls OEMs and integrators needing low-volume, high-mix, fast-turn electronics assembly with firmware-sensitive support.
 - Buyer: OEMs, primes, contract program managers, procurement leaders, and technical operations leaders.
 - User: Hardware teams, embedded systems teams, manufacturing teams, and production buyers.
 - Early adopter profile: Programs that need trusted North American assembly capacity, firmware-sensitive manufacturing support, and flexible small-batch production.
@@ -79,6 +79,13 @@ Within CLARK itself, major operating capabilities are expected to be organized a
 - Go-to-market motion: Launch and validate anchor nodes first, then expand through additional licensed operators and selective acquisitions.
 - Expansion path: Establish the binational corridor first, then replicate across the Niagara Peninsula, Western New York, and the broader Great Lakes region.
 
+### First Proof Ladder
+
+- Proof 1: Hamilton training revenue and repeatable cohort operations
+- Proof 2: Hamilton site activation and co-location credibility at `24 Clark Ave`
+- Proof 3: Niagara Clarkware pilot evidence capture and reporting proof
+- Proof 4: first paid partner-facility onboarding and recurring node-support economics
+
 ## Software And Digital Infrastructure
 
 CLARK's platform includes software as part of the shared IP layer. The current concept is not generic enterprise software; it is facility-aware operational software built to log, synthesize, and report on work inside real production spaces. Version 1 should center on Theia-based Integrated Production Environments, auditable human-and-AI agent activity records, production chat and workflow coordination, secure on-site-first collaboration with controlled remote interaction, and owner-accessible reporting tied to firmware, testing, calibration, quality, and training activity. Broader cross-node intelligence and heavier machine orchestration should remain later-phase scope.
@@ -104,11 +111,11 @@ Clark Courses should be treated as part of the first commercial stack rather tha
 
 ### Supporting Logistics Concept
 
-- Dunkirk, New York: proposed storage and shipping hub for the American side of the corridor, with an active early partnership push
+- Dunkirk, New York: later logistics option that may be revisited if corridor volume and warehousing economics justify it
 
 ### Corridor Thesis
 
-The first corridor combines Canadian R&D incentives and engineering talent with US-dollar-denominated industrial and defense-adjacent contract demand under CUSMA, within a geography that supports fast cross-border logistics coordination.
+The first corridor combines Hamilton engineering depth and training-site reality with Buffalo-side industrial access in a geography that can support cross-border coordination under CUSMA. Relevant incentive programs may help some eligible work, but they should currently be treated as optional support context rather than core economics.
 
 ## Success Criteria
 
@@ -121,10 +128,7 @@ The first corridor combines Canadian R&D incentives and engineering talent with 
 
 ## Open Decisions
 
-- Which single sub-segment inside the industrial-controls cluster should be the first commercial focus?
 - What data model, messaging architecture, and local-first guarantees should govern Clarkware version 1, and what credentialing implementation should CLARK adopt by the end of year 1 for Clark Certified outcomes?
 - How should the agreed compliance split between Niagara Assembly facility safety and site procedures and CLARK instructor and training-process compliance be documented contractually?
-- Should Dunkirk be treated as a formal node, a logistics asset, or a corridor option?
-- Is workforce housing part of the long-term platform strategy or outside the core business?
 - What is the first 24-month node expansion map after Hamilton and Buffalo?
 - What regulatory and procurement constraints define the practical limits of the first corridor?

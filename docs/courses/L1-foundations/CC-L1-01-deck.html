@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>CC-L1-01 | The Electronics Manufacturing Industry</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/white.css"
+      id="theme"
+    />
+    <style>
+      :root {
+        --clark-blue: #1d4ed8;
+        --clark-navy: #0f172a;
+        --clark-slate: #334155;
+        --clark-light: #eff6ff;
+      }
+
+      .reveal {
+        font-size: 32px;
+      }
+
+      .reveal .slides section {
+        text-align: left;
+      }
+
+      .reveal h1,
+      .reveal h2,
+      .reveal h3 {
+        color: var(--clark-navy);
+        text-transform: none;
+      }
+
+      .reveal h1 {
+        font-size: 1.8em;
+      }
+
+      .reveal h2 {
+        font-size: 1.25em;
+        color: var(--clark-blue);
+      }
+
+      .reveal p,
+      .reveal li {
+        color: #111827;
+      }
+
+      .reveal ul,
+      .reveal ol {
+        display: block;
+        margin-top: 0.4em;
+      }
+
+      .lead-slide {
+        background: linear-gradient(135deg, #eff6ff 0%, #ffffff 55%, #dbeafe 100%);
+      }
+
+      .dark-slide {
+        background: var(--clark-navy);
+        color: #f8fafc;
+      }
+
+      .dark-slide h1,
+      .dark-slide h2,
+      .dark-slide p,
+      .dark-slide li {
+        color: #f8fafc;
+      }
+
+      .two-col {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 36px;
+        align-items: start;
+      }
+
+      .pill {
+        display: inline-block;
+        padding: 6px 12px;
+        border-radius: 999px;
+        background: var(--clark-light);
+        color: var(--clark-blue);
+        font-size: 0.6em;
+        margin-bottom: 18px;
+      }
+
+      .small {
+        font-size: 0.75em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section class="lead-slide">
+          <div class="pill">Clark Courses | Level 1 Foundations</div>
+          <h1>The Electronics Manufacturing Industry</h1>
+          <h2>History, Scale, and Structure</h2>
+          <p><strong>Hamilton, Ontario</strong><br />CLARK</p>
+        </section>
+
+        <section>
+          <h2>Why This Course Exists</h2>
+          <ul>
+            <li>Most people enter electronics manufacturing through one narrow role</li>
+            <li>The industry is larger and more interconnected than it first appears</li>
+            <li>Better context improves communication, judgment, and quality</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Learning Objectives</h2>
+          <p>By the end of this session, you should be able to:</p>
+          <ul>
+            <li>describe the major phases of industry development</li>
+            <li>explain OEM, ODM, EMS, and CM</li>
+            <li>identify the main nodes around PCB assembly</li>
+            <li>explain the 2020-2022 chip shortage at a high level</li>
+            <li>describe reshoring and near-shoring logic</li>
+            <li>place CLARK within the industry landscape</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Starting Question</h2>
+          <p>When you hear <strong>electronics manufacturing</strong>, what comes to mind?</p>
+          <ul>
+            <li>factory</li>
+            <li>chips</li>
+            <li>boards</li>
+            <li>Asia</li>
+            <li>automation</li>
+            <li>quality</li>
+            <li>supply chain</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Before the PCB</h2>
+          <ul>
+            <li>Electronics were often hand-wired</li>
+            <li>Components were mounted to chassis</li>
+            <li>Wiring was manual and labor-intensive</li>
+            <li>Scaling production was difficult</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>What the PCB Changed</h2>
+          <ul>
+            <li>more repeatable production</li>
+            <li>more compact assemblies</li>
+            <li>easier documentation</li>
+            <li>easier inspection</li>
+            <li>easier scale</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Early Industry Development</h2>
+          <p>1940s to 1960s:</p>
+          <ul>
+            <li>wartime demand accelerated development</li>
+            <li>printed boards moved into broader commercial use</li>
+            <li>plated-through-hole construction became more common</li>
+            <li>reliability expectations began to formalize</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>The Through-Hole Era</h2>
+          <p>1960s to early 1980s:</p>
+          <ul>
+            <li>components inserted through drilled holes</li>
+            <li>strong mechanical retention</li>
+            <li>hand assembly and wave soldering were common</li>
+            <li>still relevant today in selected applications</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Surface Mount Technology</h2>
+          <ul>
+            <li>smaller components</li>
+            <li>denser layouts</li>
+            <li>double-sided assembly</li>
+            <li>faster automated placement</li>
+            <li>higher throughput</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Why SMT Changed Business Structure</h2>
+          <ul>
+            <li>pick-and-place equipment mattered</li>
+            <li>reflow ovens and inspection systems mattered</li>
+            <li>process engineering mattered</li>
+            <li>high utilization across multiple customers mattered</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Core Business Models</h2>
+          <ul>
+            <li><strong>OEM</strong>: owns the product and brand</li>
+            <li><strong>ODM</strong>: designs and manufactures a product others can sell</li>
+            <li><strong>EMS</strong>: manufactures to a customer's design</li>
+            <li><strong>CM</strong>: broad term for contract manufacturing</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>The Ecosystem Around Assembly</h2>
+          <ul>
+            <li>component manufacturers</li>
+            <li>component distributors</li>
+            <li>PCB fabricators</li>
+            <li>design houses</li>
+            <li>EMS providers</li>
+            <li>test resources</li>
+            <li>logistics and end customers</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Exercise: Sort the Companies</h2>
+          <ul>
+            <li>Apple</li>
+            <li>Foxconn</li>
+            <li>Jabil</li>
+            <li>TSMC</li>
+            <li>Arrow</li>
+            <li>Benchmark</li>
+            <li>Flex</li>
+            <li>Celestica</li>
+            <li>Avnet</li>
+            <li>Murata</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>The China Manufacturing Decade</h2>
+          <p>1990s to mid-2010s:</p>
+          <ul>
+            <li>major shift toward China-based manufacturing</li>
+            <li>labor cost advantages</li>
+            <li>dense supplier ecosystems</li>
+            <li>strong infrastructure and scale</li>
+            <li>major cost and speed benefits</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Trade-Offs of Offshore Scale</h2>
+          <div class="two-col small">
+            <div>
+              <h3>Advantages</h3>
+              <ul>
+                <li>lower unit cost</li>
+                <li>large supplier base</li>
+                <li>scale</li>
+                <li>speed</li>
+              </ul>
+            </div>
+            <div>
+              <h3>Trade-offs</h3>
+              <ul>
+                <li>longer supply chains</li>
+                <li>logistics risk</li>
+                <li>quality-management distance</li>
+                <li>IP and control concerns</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <h2>The 2020-2022 Shock</h2>
+          <ul>
+            <li>pandemic-related shutdowns</li>
+            <li>sudden electronics demand surge</li>
+            <li>automotive order cancellations and rebound</li>
+            <li>concentrated semiconductor capacity</li>
+            <li>long lead times and spot-market distortion</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>What Changed After the Shortage</h2>
+          <ul>
+            <li>buffer inventory</li>
+            <li>long-term agreements</li>
+            <li>alternate approvals</li>
+            <li>design for component availability</li>
+            <li>reduced single-source exposure</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Geopolitics and Industrial Policy</h2>
+          <ul>
+            <li>concentration of advanced fabrication in Taiwan</li>
+            <li>semiconductor sovereignty concerns</li>
+            <li>CHIPS Act and similar national programs</li>
+            <li>regional manufacturing incentives</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Reshoring and Near-Shoring</h2>
+          <ul>
+            <li><strong>Reshoring</strong>: bringing work back to the home country</li>
+            <li><strong>Near-shoring</strong>: moving work to a nearby country</li>
+          </ul>
+          <p>For North America, near-shoring often means <strong>Mexico</strong>.</p>
+        </section>
+
+        <section>
+          <h2>Not All Work Reshores</h2>
+          <div class="two-col small">
+            <div>
+              <h3>More likely to regionalize</h3>
+              <ul>
+                <li>high-mix, low-volume work</li>
+                <li>regulated products</li>
+                <li>quality-sensitive assemblies</li>
+                <li>products needing responsiveness</li>
+              </ul>
+            </div>
+            <div>
+              <h3>Less likely to regionalize</h3>
+              <ul>
+                <li>ultra-high-volume commodity consumer products</li>
+                <li>products optimized mainly for lowest unit cost</li>
+                <li>products dependent on massive supplier clustering</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <h2>North American EMS Landscape</h2>
+          <ul>
+            <li>global tier-1 players</li>
+            <li>regional specialists</li>
+            <li>niche high-reliability firms</li>
+            <li>medical, industrial, aerospace, telecom, and defense suppliers</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Vertical Markets Matter</h2>
+          <ul>
+            <li>consumer</li>
+            <li>industrial</li>
+            <li>medical</li>
+            <li>aerospace and defense</li>
+            <li>automotive</li>
+            <li>telecom and infrastructure</li>
+          </ul>
+          <p>Each has its own quality, volume, and regulatory profile.</p>
+        </section>
+
+        <section>
+          <h2>Where CLARK Fits</h2>
+          <ul>
+            <li>a node-network operator</li>
+            <li>a manufacturing and capability-building organization</li>
+            <li>a training provider through Clark Courses</li>
+            <li>a firm focused on distributed quality and workforce strength</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Exercise: Map the Ecosystem</h2>
+          <p>For a wireless industrial sensor:</p>
+          <ul>
+            <li>who owns the design?</li>
+            <li>who fabricates the PCB?</li>
+            <li>who supplies components?</li>
+            <li>who assembles?</li>
+            <li>who tests?</li>
+            <li>what quality expectations apply?</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Key Takeaways</h2>
+          <ul>
+            <li>Electronics manufacturing is a system</li>
+            <li>History shaped today’s business structure</li>
+            <li>Supply chain design is strategic</li>
+            <li>Not every product follows the same logic</li>
+            <li>Workforce capability matters</li>
+          </ul>
+        </section>
+
+        <section class="dark-slide">
+          <h1>Short Quiz and Reflection</h1>
+          <ul>
+            <li>quiz</li>
+            <li>one assumption you changed</li>
+            <li>one part of the industry you want to learn next</li>
+          </ul>
+        </section>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+    <script>
+      Reveal.initialize({
+        hash: true,
+        slideNumber: true,
+        transition: "slide",
+        backgroundTransition: "fade",
+        width: 1280,
+        height: 720
+      });
+    </script>
+  </body>
+</html>

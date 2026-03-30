@@ -7,7 +7,7 @@ This memo is the current program-level checkpoint for CLARK. It should summarize
 ## Snapshot
 
 - Date: 2026-03-28
-- Overall status: Structured planning in place, with several core operating choices made and the main remaining work concentrated in validation and pilot execution detail.
+- Overall status: Structured planning in place, with the investor-reset now reflected in the core docs and the main remaining work concentrated in validation, agreement finalization, and pilot execution detail.
 - Planning posture: Strong on framework and internal coherence, still selective and cautious on externally usable claims.
 
 ## Completed Or Substantially Defined
@@ -23,36 +23,35 @@ This memo is the current program-level checkpoint for CLARK. It should summarize
 
 ## Active Work
 
-- Beachhead customer selection remains ready for final narrowing from a cluster to one first segment.
+- Beachhead customer selection has been promoted, with industrial-controls OEMs and integrators now treated as the first commercial segment.
 - Competitor and analog mapping is active and usable internally, but still needs stronger investor-safe framing.
 - Corridor validation remains active at the level of comparative proof, even though Hamilton-Buffalo remains the working default.
 - Incentive and policy validation is far enough along to reject weak claims, but not far enough to support strong project-specific assertions.
-- Dunkirk is still treated as an active partnership push without a final scope classification.
+- Dunkirk has been downgraded to a later logistics option rather than active footprint.
 - Clarkware pilot-definition work is active around workstation choice, first integration target, browser-versus-desktop path, XMPP setup, and reporting-view definition.
 
 ## Open Decisions
 
-- Choose the single first commercial sub-segment inside the current industrial-controls and rugged-hardware cluster.
-- Decide whether Dunkirk is `core now`, `later option`, or `out of scope`.
-- Decide whether workforce housing is outside the current venture scope or a later adjacency.
 - Convert the Hamilton commercial and compliance model into draft agreement language.
 - Choose the implementation path for verifiable Clark Certified records by the end of year 1.
 - Lock the Clarkware v1 architecture details that remain open: data model, messaging implementation, permission model, local-first behavior, and first tool integrations.
+- Gather real customer evidence inside the selected industrial-controls beachhead.
 
 ## Main Risks
 
 - Customer-definition risk: the current ICP is still broader than it should be for first sales.
+- Customer-proof risk: the selected ICP is now clearer, but real buyer evidence is still thin.
 - Evidence risk: several high-value claims remain provisional and should not be overstated in fundraising materials.
-- Scope risk: CLARK, Clarkware, Dunkirk, and possible adjacent concepts can sprawl faster than the first corridor can support.
+- Scope risk: CLARK and Clarkware can still sprawl faster than the first corridor can support if proof sequencing slips.
 - Execution risk: the Hamilton launch and Niagara pilot both still need conversion from planning artifacts into named owners, agreements, and operating setup.
 
 ## Immediate Next 5 Decisions
 
-1. Narrow the beachhead from the current cluster to one first segment with buyer and program profile.
-2. Classify Dunkirk with a stable scope treatment across thesis, plan, and pitch materials.
-3. Turn Hamilton beta economics and responsibility splits into draft agreement terms.
-4. Confirm the first Niagara pilot workflow, named users, and AI role.
-5. Lock the first Clarkware pilot architecture choices needed to stand up the workstation, import flow, and messaging layer.
+1. Gather real buyer and account evidence inside the industrial-controls beachhead.
+2. Turn Hamilton beta economics and responsibility splits into a negotiated agreement package.
+3. Confirm the first Niagara pilot workflow, named users, and AI role.
+4. Lock the first Clarkware pilot architecture choices needed to stand up the workstation, import flow, and messaging layer.
+5. Define the first operational workflow for Clark Certified record issuance and verification.
 
 ## Notes For Use
 
