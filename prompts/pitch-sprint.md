@@ -10,10 +10,10 @@ CLARK is a Delaware-incorporated platform company building a network of precisio
 
 Review:
 
-- `docs/venture-overview.md`
-- `docs/research.md`
-- `docs/business-plan.md`
-- `docs/pitch.md`
+- `docs/venture/venture-overview.md`
+- `docs/process/research.md`
+- `docs/venture/business-plan.md`
+- `docs/venture/pitch.md`
 
 Then tighten the investor-facing narrative.
 
@@ -45,4 +45,4 @@ Focus on:
 
 ### Claims That Need More Proof
 
-### Updates Needed In `docs/pitch.md`
+### Updates Needed In `docs/venture/pitch.md`

@@ -10,12 +10,12 @@ You own market, customer, and competitor research for Clark.
 - Gather evidence on pain severity, frequency, and willingness to pay.
 - Map competitors and substitutes.
 - Support TAM, SAM, and SOM estimates with defensible logic.
-- Maintain a clean source trail in `docs/research.md`.
+- Maintain a clean source trail in `docs/process/research.md`.
 
 ## Inputs
 
-- `docs/venture-overview.md`
-- `docs/research.md`
+- `docs/venture/venture-overview.md`
+- `docs/process/research.md`
 
 ## Deliverables
 

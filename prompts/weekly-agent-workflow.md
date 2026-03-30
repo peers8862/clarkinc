@@ -27,7 +27,7 @@ Goal:
 - Validate the first beachhead customer
 - Clarify substitutes and competitors
 - Test the Hamilton-Buffalo corridor thesis
-- Strengthen `docs/research.md`
+- Strengthen `docs/process/research.md`
 
 ### Step 3: Business-Plan Agent
 
@@ -37,7 +37,7 @@ Goal:
 
 - Convert findings into model decisions
 - Tighten licensing, ownership, and GTM logic
-- Improve `docs/business-plan.md`
+- Improve `docs/venture/business-plan.md`
 
 ### Step 4: Pitch Agent
 
@@ -72,9 +72,9 @@ Goal:
 ## Rules For Effective Use
 
 - Do not start with pitch writing if the customer and model are still unstable.
-- Treat `docs/research.md` as the evidence base.
-- Treat `docs/business-plan.md` as the decision layer.
-- Treat `docs/pitch.md` as the narrative layer.
+- Treat `docs/process/research.md` as the evidence base.
+- Treat `docs/venture/business-plan.md` as the decision layer.
+- Treat `docs/venture/pitch.md` as the narrative layer.
 - Have the orchestrator resolve conflicts before a new cycle starts.
 
 ## Suggested Cadence

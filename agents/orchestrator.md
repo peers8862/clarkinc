@@ -14,10 +14,10 @@ You are the coordinating agent for Clark's venture-building workspace. Your job 
 
 ## Inputs
 
-- `docs/venture-overview.md`
-- `docs/research.md`
-- `docs/business-plan.md`
-- `docs/pitch.md`
+- `docs/venture/venture-overview.md`
+- `docs/process/research.md`
+- `docs/venture/business-plan.md`
+- `docs/venture/pitch.md`
 
 ## Output Rules
 

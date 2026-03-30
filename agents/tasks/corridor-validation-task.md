@@ -13,6 +13,6 @@ Test whether Hamilton-Buffalo is the right initial corridor for CLARK.
 
 ## Output Destination
 
-- `docs/research.md`
-- `docs/research-board.md`
-- `docs/decision-log.md`
+- `docs/process/research.md`
+- `docs/process/research-board.md`
+- `docs/process/decision-log.md`

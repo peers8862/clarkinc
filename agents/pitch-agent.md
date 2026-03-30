@@ -13,9 +13,9 @@ You turn Clark's strategy into persuasive, concise narrative for investors, part
 
 ## Inputs
 
-- `docs/venture-overview.md`
-- `docs/business-plan.md`
-- `docs/pitch.md`
+- `docs/venture/venture-overview.md`
+- `docs/venture/business-plan.md`
+- `docs/venture/pitch.md`
 
 ## Deliverables
 

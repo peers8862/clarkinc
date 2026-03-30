@@ -15,5 +15,5 @@ Determine the best first customer segment for CLARK.
 
 ## Output Destination
 
-- `docs/research.md`
-- `docs/research-board.md`
+- `docs/process/research.md`
+- `docs/process/research-board.md`

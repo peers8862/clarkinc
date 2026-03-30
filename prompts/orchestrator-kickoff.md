@@ -27,10 +27,10 @@ Core business model:
 
 Review the current state of:
 
-- `docs/venture-overview.md`
-- `docs/research.md`
-- `docs/business-plan.md`
-- `docs/pitch.md`
+- `docs/venture/venture-overview.md`
+- `docs/process/research.md`
+- `docs/venture/business-plan.md`
+- `docs/venture/pitch.md`
 
 Then do the following:
 

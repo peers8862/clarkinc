@@ -34,13 +34,13 @@ Use this framework when you want a new venture repo to start with:
 
 A new project should treat these files as the control layer:
 
-- `docs/venture-overview.md`: current company thesis
-- `docs/research.md`: evidence base and unresolved questions
-- `docs/research-board.md`: prioritized research execution queue
-- `docs/business-plan.md`: strategy and business model decisions
-- `docs/pitch.md`: investor-facing narrative
-- `docs/decision-log.md`: resolved decisions
-- `docs/claims-register.md`: safe, weak, and rejected claims
+- `docs/venture/venture-overview.md`: current company thesis
+- `docs/process/research.md`: evidence base and unresolved questions
+- `docs/process/research-board.md`: prioritized research execution queue
+- `docs/venture/business-plan.md`: strategy and business model decisions
+- `docs/venture/pitch.md`: investor-facing narrative
+- `docs/process/decision-log.md`: resolved decisions
+- `docs/process/claims-register.md`: safe, weak, and rejected claims
 
 ## Recommended Setup In A New Project
 
@@ -48,7 +48,7 @@ A new project should treat these files as the control layer:
 2. Copy the contents of `docs/` into the project-level `docs/` directory.
 3. Copy `agents/`, `prompts/`, `templates/`, and `workflows/` into the project root.
 4. Replace placeholder company references.
-5. Define the initial venture thesis in `docs/venture-overview.md`.
+5. Define the initial venture thesis in `docs/venture/venture-overview.md`.
 6. Start the first cycle with the orchestrator prompt.
 
 ## Recommended Operating Order

@@ -14,8 +14,8 @@ CLARK creates a binational industrial network of independently owned and operate
 
 Each node delivers three integrated services:
 
-- Small-batch PCB and PCBA assembly
-- Binary-level firmware optimization
+- Small-batch PCB and PCBA assembly delivered by regional specialist facilities
+- Binary-level firmware optimization delivered by regional specialists and technical partners
 - IPC-certified workforce training
 
 ## Core Strategic Claim
@@ -65,11 +65,13 @@ Within CLARK itself, major operating capabilities are expected to be organized a
 - Product concept: A networked platform of regional assembly nodes operating under shared process IP, software tools, training systems, logistics coordination, and brand standards.
 - Core user outcome: Faster, more trusted, North America-based electronics assembly with better coordination between manufacturing, firmware, workforce quality, and facility-level operational memory.
 - Differentiation thesis: CLARK sits at an unusual intersection of four layers: precision assembly, firmware optimization, IPC-certified workforce development, and facility-aware operational software through Clarkware.
-- What CLARK will not do: Compete as a generic mass-scale EMS provider or directly operate every facility itself.
+- What CLARK will not do: Compete as a generic mass-scale EMS provider, directly operate every facility itself, or treat all assembly and firmware work as centrally delivered CLARK labor.
 
 ### Business
 
 - Revenue sequence: CLARK's first revenue should come from IPC training and train-the-trainer activity, followed by node operating revenue and platform fees as assembly work comes online.
+- Training-product model: Clark Courses should operate as a real standalone education line inside CLARK's training-services family, with public cohorts, private cohorts, and later licensed delivery.
+- Service delivery model: Assembly services and firmware optimization should primarily be carried out by regional partner facilities and specialists, with CLARK improving delivery through software, training, standards, quality systems, and network support.
 - Platform fees: IP licensing royalties, logistics coordination fees, training license fees, software licensing for non-center users of the Clark System, and node onboarding fees.
 - Software model: Software is bundled into licensing for Assembly Centres and Assembly Centers, while external limited-access users may be billed separately.
 - Ownership model: CLARK targets 10% default ownership in new centers, with a likely upper band of 15% to 20% where CLARK contributes more capital or strategic support.
@@ -85,8 +87,8 @@ CLARK's platform includes software as part of the shared IP layer. The current c
 
 ### Anchor Nodes
 
-- Niagara Assembly, Hamilton, Ontario: founding node and primary R&D engine
-- Buffalo Assembly, East Side of Buffalo, New York: American anchor for assembly and inspection services
+- Niagara Assembly, Hamilton, Ontario: founding node, primary R&D engine, and first partner-facility proof point
+- Buffalo Assembly, East Side of Buffalo, New York: American anchor for partner-delivered assembly and inspection services
 
 ### Early Training And Co-Location Model
 
@@ -97,6 +99,8 @@ The Hamilton Training Facility is intended to serve as:
 - CLARK's first revenue source through IPC certification, trainer-development activity, and the first Clark Courses wraparound curriculum
 - a direct workforce-development engine for Niagara Assembly and the surrounding region
 - the case study for a future training model that CLARK can expand and license elsewhere
+
+Clark Courses should be treated as part of the first commercial stack rather than as a side note. It gives CLARK a standalone professional education offer that can reach individuals, employers, institutional partners, and later licensed delivery partners even when those audiences are not direct manufacturing customers.
 
 ### Supporting Logistics Concept
 

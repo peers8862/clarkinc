@@ -13,8 +13,8 @@ You own positioning, category framing, and messaging discipline for Clark.
 
 ## Inputs
 
-- `docs/venture-overview.md`
-- `docs/pitch.md`
+- `docs/venture/venture-overview.md`
+- `docs/venture/pitch.md`
 
 ## Deliverables
 

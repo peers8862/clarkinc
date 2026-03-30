@@ -12,9 +12,9 @@ The current anchor corridor is Hamilton, Ontario to Buffalo, New York.
 
 Review:
 
-- `docs/venture-overview.md`
-- `docs/research.md`
-- `docs/business-plan.md`
+- `docs/venture/venture-overview.md`
+- `docs/process/research.md`
+- `docs/venture/business-plan.md`
 
 Then produce a decision-oriented revision plan for the business model.
 
@@ -52,4 +52,4 @@ Identify weaknesses or contradictions in the existing business plan.
 
 List the most important 90-day and 12-month milestones.
 
-### Updates Needed In `docs/business-plan.md`
+### Updates Needed In `docs/venture/business-plan.md`

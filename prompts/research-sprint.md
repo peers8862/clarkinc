@@ -17,8 +17,8 @@ The current target thesis is that CLARK can win by serving industrial, defense-a
 
 Use the current docs as your starting point, especially:
 
-- `docs/venture-overview.md`
-- `docs/research.md`
+- `docs/venture/venture-overview.md`
+- `docs/process/research.md`
 
 Answer the following:
 
@@ -55,4 +55,4 @@ Then end with:
 
 ### Key Unknowns
 
-### Updates Needed In `docs/research.md`
+### Updates Needed In `docs/process/research.md`

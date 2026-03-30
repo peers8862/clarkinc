@@ -13,5 +13,5 @@ Build a validated competitor and analog map for CLARK.
 
 ## Output Destination
 
-- `docs/research.md`
-- `docs/claims-register.md`
+- `docs/process/research.md`
+- `docs/process/claims-register.md`

@@ -6,14 +6,14 @@ Run a disciplined weekly cycle that turns open questions into validated or rejec
 
 ## Monday
 
-- Review `docs/research-board.md`
+- Review `docs/process/research-board.md`
 - Confirm the week's top priorities
 - Assign tasks to the research agent
 
 ## Tuesday
 
 - Gather evidence
-- Populate `docs/research.md`
+- Populate `docs/process/research.md`
 - Use templates in `templates/` for consistency
 
 ## Wednesday
@@ -24,7 +24,7 @@ Run a disciplined weekly cycle that turns open questions into validated or rejec
 ## Thursday
 
 - Hand validated findings to the business-plan agent or orchestrator
-- Update `docs/decision-log.md` and `docs/claims-register.md` if needed
+- Update `docs/process/decision-log.md` and `docs/process/claims-register.md` if needed
 
 ## Friday
 

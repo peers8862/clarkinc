@@ -6,10 +6,10 @@ Use this workspace to turn a rough company idea into a coherent business plan an
 
 ## Workflow
 
-1. Start in `docs/venture-overview.md` and define the current thesis.
-2. Run the research process in `docs/research.md` until the core assumptions have evidence behind them.
-3. Promote validated assumptions into `docs/business-plan.md`.
-4. Translate the business plan into persuasive narrative in `docs/pitch.md`.
+1. Start in `docs/venture/venture-overview.md` and define the current thesis.
+2. Run the research process in `docs/process/research.md` until the core assumptions have evidence behind them.
+3. Promote validated assumptions into `docs/venture/business-plan.md`.
+4. Translate the business plan into persuasive narrative in `docs/venture/pitch.md`.
 5. Revisit the overview when the target market, problem, or pricing changes.
 6. Publish a concise program checkpoint in `docs/program-status-memo.md` after major planning updates.
 

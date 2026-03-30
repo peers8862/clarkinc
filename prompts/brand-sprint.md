@@ -18,8 +18,8 @@ The current message includes:
 
 Review:
 
-- `docs/venture-overview.md`
-- `docs/pitch.md`
+- `docs/venture/venture-overview.md`
+- `docs/venture/pitch.md`
 
 Then improve CLARK's positioning.
 
@@ -41,4 +41,4 @@ Focus on:
 
 ### Phrases To Avoid
 
-### Updates Needed In `docs/pitch.md` And `docs/venture-overview.md`
+### Updates Needed In `docs/venture/pitch.md` And `docs/venture/venture-overview.md`

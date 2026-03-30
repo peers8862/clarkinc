@@ -13,9 +13,9 @@ You own the structure and internal logic of Clark's business plan.
 
 ## Inputs
 
-- `docs/venture-overview.md`
-- `docs/research.md`
-- `docs/business-plan.md`
+- `docs/venture/venture-overview.md`
+- `docs/process/research.md`
+- `docs/venture/business-plan.md`
 
 ## Deliverables
 
